@@ -2,6 +2,9 @@
 
 A responsive navigation bar with a smooth sliding highlight, built with HTML, CSS, and a touch of vanilla JavaScript. No frameworks.
 
+## Live Demo
+eee
+
 ## Features
 
 - Pure CSS sliding indicator (radio input + `:checked` trick)
@@ -26,6 +29,9 @@ index.html   Markup
 styles.css   Layout, theme, animations
 script.js    Routing, swipe, persistence
 ```
+
+## Tech Stack 
+ww
 
 ## License
 
