@@ -2,8 +2,8 @@
 
 A responsive navigation bar with a smooth sliding highlight, built with HTML, CSS, and a touch of vanilla JavaScript. No frameworks.
 
-## View Live 🌐
-https://ankamahjohnson.github.io/calculator
+## Live Demo 🌐
+click to view https://ankamahjohnson.github.io/calculator
 
 ## Features
 
