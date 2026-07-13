@@ -2,8 +2,8 @@
 
 A responsive navigation bar with a smooth sliding highlight, built with HTML, CSS, and a touch of vanilla JavaScript. No frameworks.
 
-## Live Demo
-eee
+## View Live 🌐
+https://ankamahjohnson.github.io/calculator
 
 ## Features
 
@@ -14,13 +14,6 @@ eee
 - Remembers your last tab and settings via `localStorage`
 - Fully responsive and keyboard accessible
 
-## Usage
-
-Open `index.html` in a browser, or serve the folder:
-
-```bash
-npx serve .
-```
 
 ## Files
 
