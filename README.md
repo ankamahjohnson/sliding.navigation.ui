@@ -1,6 +1,6 @@
 # Sliding Navigation
 
-A responsive navigation bar with a smooth sliding highlight, built with HTML, CSS, and a touch of vanilla JavaScript. No frameworks.
+A responsive navigation bar with a smooth sliding highlight, built with HTML, CSS and a touch of vanilla JavaScript. No frameworks.
 
 ## Live Demo 🌐
 Click to view https://ankamahjohnson.github.io/sliding.navigation.ui/
